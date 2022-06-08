@@ -19,4 +19,4 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-* ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramaysm&show_icons=true&theme=radical)
+* ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramaysm&show_icons=true&theme=buefy)
