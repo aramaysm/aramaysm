@@ -1,6 +1,7 @@
 
 
-<div id="top"></div>
+<div id="top">
+<img style=”margin: 10px” src=”" alt=”React” height=”50" /></div>
 
 
 ## ⚡ Tecnologias
@@ -23,4 +24,4 @@
 
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramaysm&show_icons=true&theme=buefy)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramaysm&show_icons=true&theme=radical)
