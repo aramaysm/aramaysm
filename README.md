@@ -1,7 +1,7 @@
 
 
 <div id="top">
-<img style=”margin: 10px” src=”" alt=”React” height=”50" /></div>
+<img style=”margin: 10px” src=Banner1_Github_Profile.png alt=”React” height=”50" /></div>
 
 
 ## ⚡ Tecnologias
@@ -24,4 +24,4 @@
 
 
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramaysm&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aramaysm&show_icons=true&theme=codeSTACKr)
